@@ -135,8 +135,9 @@ Creative Commons does not recommend the Public Domain mark for work with jurisdi
 | Effect on work itself upon application                       | "None, PDM is not legally operative but instead labels a work already free of known copyright and related and neighboring rights through means such as expiration of term of applicable copyright term" | "Places work as closely as possible in the public domain, worldwide"                                                                                                                      | 
 
 #### Check your Understanding: CC0 vs. Public Domain mark
+
 Match the correct mark with each scenario. 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/80" width="" height="432" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/80" width="689" height="432" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 ## 4. Adapting Work for OER Projects   
