@@ -24,12 +24,40 @@ Explore the hotspots in the image below to learn about some of the popular non-C
 Though you probably won't encounter these licenses in most of your OER work, they are an important part of the free culture ecosystem. This is especially important when considering how to integrate content with courseware and other publishing platforms. For example, all of the code for the H5P exercises and activities in this module are licensed under the [MIT and GPL licenses](https://h5p.org/licensing) (depending on the components used). 
 
 ## 2. The Creative Commons Licenses 
+Creative Commons licenses complement existing copyright. As a content creator, you can only apply CC licenses to content for which **you already hold the copyright**. You've probably heard CC licenses referred to as an alternative to traditional copyright, as it may be easier to understand them that way, but it's important to understand the actual legal relationship between licenses and copyright. 
+
+Think of CC licenses like driver's licenses. In order to get a driver's license, you must first meet the legal conditions to apply for one. You must have the "right" to drive, whether that means you are old enough or you meet visual accuity standard. You can't get a license if you can't drive. Creative Commons licenses are the same way: you first have to have the "rights" of copyright before you can apply a license. 
+
+Copyright operates by default under an “all rights reserved” approach. Creative Commons licenses function within copyright law, but they utilize a “some rights reserved” approach. While there are several different CC license options, all of them grant the public permission to use the works under certain standardized conditions. The licenses grant those permissions for as long as the underlying copyright lasts or until you violate the license terms. This is what we mean when we say CC licenses work on top of copyright, not instead of copyright.
+
+Creative Commons licenses are appropriate for creators who want to provide people with one or more of the permissions governed by copyright law. If you want to give others permission to freely transform, alter, or otherwise create derivative works based on your work, you can use a Creative Commons license to grant them that permission.
 
 #### The Structure of a CC License
 All CC licenses have three basic layer: the legal code, the human-readable deed, and the machine-readable metadata. 
 
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/77" width="688" height="840" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+### Creative Commons and Fair Use
+Fair use is an exception or limitation to copyright law that allows you to use some copyrighted materials in particular circumstances without the copyright holder’s permission. Specifically, if used for nonprofit educational purposes, some copyrighted materials may be used for teaching, but your use 1) should directly relate to your educational goals, 2) should only utilize a relatively small portion of the work, and 3) should not negatively impact the copyright holder’s ability to profit from the work.
+
+By design, CC licenses do not reduce, limit, or restrict any rights under exceptions and limitations to copyright, such as fair use or fair dealing. If your use of CC-licensed material would otherwise be allowed because of an applicable exception or limitation, you do not need to rely on the CC license or comply with its terms and conditions. This is a fundamental principle of CC licensing.
+
+You may apply a CC license to your work if it incorporates material used under fair use or another exception or limitation to copyright, but it is important to prominently mark any third party material you incorporate into your work so reusers do not think the CC license applies to that material. The CC license only applies to the rights you have in the work. For example, if your CC-licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. 
+
+### Other Copyright Considerations 
+The other critical part of the statement “CC licenses are copyright licenses” is that there may be other rights in the works upon which the license has no effect—for example, privacy rights. Again, CC licenses do not have any effect on rights beyond copyright and Similar Rights as defined in the licenses, so other rights have to be managed separately.
+
+Just like [the fair use guiding principles](https://adavis46.github.io/cccert_assignment2/#3), there are a number of considerations you should make when decideing about the applicability of CC licenses, including:
+
+- Type of Material
+- Nature and adequacy of rights
+- Type of license
+- Additional provisions
+- Special preferences
+
+For more information about special considerations, check out the [Creative Commons wiki](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees). 
+
+### The Building Blocks of CC Licenses 
 There are four possible components to each Creative Commons license type. The components can be arranged into six different standard licenses. Explopre the hotspots below to learn about each of the four basic components. 
 
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="300" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -155,18 +183,28 @@ One of the affordances of OER is the ability to remix content. You may find that
 
 ### Explore an Adapted OER  
 
-Spend some time exploring the sample OER content below. It combines original text and activities with adapted content from [OER Commons](https://www.oercommons.org/).  
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/78" width="688" height="713" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Spend some time exploring the sample OER content below. It combines original text and activities with adapted content from several other OER texts. Click on the highlighted text to learn more about where it came from.
+
+<iframe src="https://via.hypothes.is/https://courses.lumenlearning.com/olemiss-writ250/chapter/search-tools-databases/#annotations:query:" width="100%" height="750px">
 
 Now, answer a couple of questions about how Creative Commons licenses are used in this OER:
 
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/79" width="688" height="291" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Module Quiz 
+## Module Quiz
+Coming soon.  
 
 
 ### CC licensed content, Specific attribution
-- Anatomy of a CC License . Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/3-anatomy-of-a-cc-license/](https://certificates.creativecommons.org/cccertedu/chapter/3-anatomy-of-a-cc-license/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
+- License Design and Terminology. Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/3-1-license-design-and-terminology/](https://certificates.creativecommons.org/cccertedu/chapter/3-1-license-design-and-terminology/). Project: Creative Commons Certificate for Educators and Librarians License: CC BY 4.0
+
+- Anatomy of a CC License . Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/3-anatomy-of-a-cc-license/](https://certificates.creativecommons.org/cccertedu/chapter/3-anatomy-of-a-cc-license/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY 4.0
+
+- License Scope. Proivded by: Creative Commons. Located at [https://certificates.creativecommons.org/cccertedu/chapter/3-2-license-scope/](https://certificates.creativecommons.org/cccertedu/chapter/3-2-license-scope/). License: CC BY 4.0
+
+- Frequently Asked Questions: Fair Use. Provided by: Creative Commons. Located at: [https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use](https://creativecommons.org/faq/#do-creative-commons-licenses-affect-exceptions-and-limitations-to-copyright-such-as-fair-dealing-and-fair-use). Licese: CC BY 4.0
+
+- Considerations for licensors and licenses. Provided by: Creative Comnmons. Located at: [https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees). License: CC BY 4.0
 
 - CC0 ODM comparison chart. Provided by: Creative Commons. Located at: [https://wiki.creativecommons.org/wiki/CC0_PDM_comparison_chart](https://wiki.creativecommons.org/wiki/CC0_PDM_comparison_chart). License: CC-BY 4.0
 
