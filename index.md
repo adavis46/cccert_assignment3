@@ -185,7 +185,7 @@ One of the affordances of OER is the ability to remix content. You may find that
 
 Spend some time exploring the sample OER content below. It combines original text and activities with adapted content from several other OER texts. Click on the highlighted text to learn more about where it came from.
 
-<iframe src="https://via.hypothes.is/https://courses.lumenlearning.com/olemiss-writ250/chapter/search-tools-databases/#annotations:query:" width="100%" height="750px">
+[Sample Adapted OER Content](https://via.hypothes.is/https://courses.lumenlearning.com/olemiss-writ250/chapter/search-tools-databases/#annotations:query:)
 
 Now, answer a couple of questions about how Creative Commons licenses are used in this OER:
 
